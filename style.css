@@ -1,0 +1,38 @@
+h1 {
+  font-weight: bold;
+  color: gold;
+}
+img {
+  width: 250px;
+  height: 200px;
+  border-style: double;
+  border-width: 10px;
+  border-radius: 10px;
+}
+h6 {
+  color:rgb(202,7,7);
+}
+
+.regular {
+  background-color: rgb(237,10,10);
+  margin: center;
+  color: rgb(250, 229, 36);
+  font: Lucida Console, monospace;
+  max-width: 250px;
+  text-align: left;
+}
+
+.spoopy {
+  color: rgb(255,255,255);
+  background-color: rgb(128,0,0);
+  font: Lucida Console, monospace;
+  max-width: 250px;
+  text-align: left;
+}
+
+.smoll { 
+  color: rgb(255,255,255);
+  background-color: rgb(223,10,10);
+  font: Lucida Console, monospace;
+  max-width: 250px;
+  text-align: left;
